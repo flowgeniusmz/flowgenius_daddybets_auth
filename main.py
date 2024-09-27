@@ -2,7 +2,7 @@ import streamlit as st
 from supabase import Client, create_client
 from config import pagesetup as ps
 
-st.set_page_config(page_title="DaddyBetsGPT", page_icon="👨‍💻", layout="wide")
+st.set_page_config(page_title="DaddyBets", page_icon=""https://storage.googleapis.com/production-domaincom-v1-0-8/048/1724048/4RBifvGs/dfc737c8f0d640cfa7e8623583bfcf5e"", layout="centered", initial_sidebar_state="collapsed")
 ps.get_page_styling()
 ps.display_background_image()
 
